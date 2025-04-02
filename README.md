@@ -165,4 +165,4 @@
 
 # <center>Ссылка на проект на сервисе Google Диск <center>
 
-[google_disk](https://drive.google.com/drive/folders/1pF9pDhwhUU25R1jBLebR_mALaOPrfPZQ?dmr=1&ec=wgc-drive-globalnav-goto)
+[google_disk](https://drive.google.com/drive/folders/1QVXau_XPwjjet4Cl2eyiuZNLSa512M0Y?usp=sharing)
